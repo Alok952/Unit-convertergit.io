@@ -1,0 +1,50 @@
+body{
+    font-family: Geneva, Verdana, sans-serif;
+    background-color: #DDF7E3;
+}
+
+
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+
+}
+.container{
+    text-align: center;
+    width: 60%;
+    padding: 20px ;
+    margin: 15px auto 0 auto;
+    background-color: #FBFFB1;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.input-div{
+    display: inline-block;
+    margin: 0 auto;
+    
+}
+.input{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    width: 200px;
+}
+.input-div{
+    display: inline-block;
+    
+}
+label{
+    font-weight: bold;
+    
+}
+#feet{
+    background-color: rgb(180, 255, 255);
+}
+#inches{
+    background-color: rgb(180, 255, 255);
+}
